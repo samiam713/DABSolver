@@ -1,0 +1,3 @@
+1) Alpha Beta Caching (something where you continue searching node iff searchingAlphaValue < cachedAlphaValue)
+2) Computer runs search for fixed amount of seconds, or until opponent makes move
+3) Multithreaded node expansion (this might be fairly difficult)
